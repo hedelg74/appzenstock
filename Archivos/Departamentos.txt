@@ -1,0 +1,8 @@
+D0001|Jefatura Proyectos
+D0002|Recussos Humanos
+D0003|Ingenieria
+D0004|Taller
+D0005|Limpieza
+D0006|Gestion Ambiental
+D0007|Empaque
+D0008|Gerencia proyectos

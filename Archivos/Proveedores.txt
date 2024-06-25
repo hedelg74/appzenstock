@@ -1,0 +1,3 @@
+P0001|Afalpi S.A|info@afalpi.com|(506) 2539-9900|Juridico|3101525678
+P0002|Offisolutions s.a.|ventas@offisolutionscr.com|22274297|Juridico|3101564847
+P0003|Xtreme Clean s.a.|r.terrin@xtremecleancostarica.com|506 4052-0518|Juridico|3102564875

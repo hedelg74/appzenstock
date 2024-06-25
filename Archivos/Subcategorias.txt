@@ -1,0 +1,14 @@
+C0001|S0001|Artículos de Oficina
+C0001|S0002|Carpetería y Archivo
+C0001|S0003|Insumos de Cafetería
+C0001|S0004|Papelería
+C0001|S0005|Productos de Limpieza
+C0001|S0006|Tecnología
+C0002|S0007|EEP Brazos y Manos
+C0002|S0008|EPP Cabeza
+C0002|S0009|EPP Desechable
+C0002|S0010|EPP Piernas y Pies
+C0002|S0011|EPP Respiratoria
+C0002|S0012|Vestimenta
+C0003|S0013|Dispensadores
+C0005|S0014|Plasticos Negros

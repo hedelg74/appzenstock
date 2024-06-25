@@ -1,0 +1,3 @@
+U0001|Henry Delgado Salas|hdelgados74@gmail.com|72137516|hede1974|bart5566|7157|Administrador|Activo
+U0002|Dylana Delgado Salas|dydelgado@hotmail.com|45565236|dyla7214|sala2214|9988|Empleado|Activo
+U0003|Jhonny Perez|jperez@gmail.com|89653245|jper7845|star8889|8877|Empleado|Inactivo

@@ -1,0 +1,11 @@
+A0001||C0001|S0001|P0001|Artline BORRADOR PIZARRA MAGNETICO|Und|1|5|20.0|566|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Artline BORRADOR PIZARRA MAGNETICO.jpg
+A0002||C0001|S0003|P0001|Azúcar Zucra 2 KL|Und|1|5|5.0|1598|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Azúcar Zucra 2 KL.png
+A0003||C0001|S0003|P0001|Azúcar Zucra sobre 100unidad.webp|Caja|100|2|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Azúcar Zucra sobre 100unidad.webp
+A0004||C0001|S0005|P0001|Basurero de Acero Inoxidable con pedal (30 Litros)|Und|1|2|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Basurero de Acero Inoxidable con pedal (30 Litros).webp
+A0005||C0001|S0005|P0001|Basurero plástico con pedal 3 tamaños 4 colores disponibles|Und|1|2|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Basurero plástico con pedal 3 tamaños 4 colores disponibles.webp
+A0006||C0001|S0001|P0001|BATERIAS ALKALINA MAXELL "AA" PAQ|Und|1|5|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/BATERIAS ALKALINA MAXELL "AA" PAQ.webp
+A0007||C0001|S0001|P0001|BATERIAS ALKALINA MAXELL "AAA" PAQ|Und|1|3|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/BATERIAS ALKALINA MAXELL "AAA" PAQ.jpg
+A0008||C0001|S0005|P0001|Bolsa Zesta grande paquete de 9 unidades|Paquete|1|10|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Bolsa Zesta grande paquete de 9 unidades.webp
+A0009||C0001|S0005|P0001|Bolsas de basura mediana paquete de 9|Paquete|1|10|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Bolsas de basura mediana paquete de 9.webp
+A0010||C0001|S0001|P0002|Bolí­grafos Azor|Und|1|20|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Bolí­grafos Azor.jpg
+A0011||C0002|S0011|P0002|Mascara quirúrgica triple con elástico caja 50 unidades.webp|Und|1|6|0.0|0.0|/home/henry/Documentos/VLAcademy/Python/Zenstock/images/Articulos/Mascara quirúrgica triple con elástico caja 50 unidades.webp

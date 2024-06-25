@@ -1,0 +1,5 @@
+C0001|Sumistros de Oficina
+C0002|Equipo de Proteccion Personal
+C0003|Materiales de Empaque
+C0004|Mantenimiento
+C0005|Plasticos

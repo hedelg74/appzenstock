@@ -1,0 +1,3 @@
+E0001|1|U0001|A0001|40001|02/05/2024|Compra|Compras de invierno|20|555
+E0002|1|U0001|A0001|40002|03/05/2024|Compra|Otra compra de emergencia|13|566
+E0003|1|U0001|A0002|40003|07/05/2024|Compra|Entrada azucar|5|1598
